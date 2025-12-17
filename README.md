@@ -43,6 +43,7 @@ AI Engineer and Computer Science graduate with hands-on experience in developing
         <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/Odoo-7C7BAD?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
       </p>
       <h4><b>Vector Databases</b></h4>
       <p>
